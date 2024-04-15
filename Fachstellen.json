@@ -12,7 +12,7 @@
     }
   ],
   "paths": {
-    "/Fachstellen": {
+    "/Fachstellen.json": {
       "get": {
         "operationId": "getFachstellen",
         "summary": "Liste der Fachstellen",
