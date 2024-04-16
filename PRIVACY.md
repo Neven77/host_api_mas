@@ -14,13 +14,13 @@ Diese Datenschutzerklärung beschreibt, wie wir, im Rahmen unseres Prototyps fü
 **3. Zweck der Datenverarbeitung:**
 - Da keine personenbezogenen Daten gesammelt werden, gibt es keine Verarbeitung solcher Daten.
 
-** 4. Rechtsgrundlagen:**
+**4. Rechtsgrundlagen:**
 - Keine personenbezogenen Daten werden erfasst; die Nutzung der GPT-basierten Anwendung und des JSON-Files erfolgt zu Forschungszwecken im Rahmen einer Masterarbeit.
 
 **5. Sicherheitsmaßnahmen:**
 - Wir treffen technische und organisatorische Sicherheitsmaßnahmen gemäß dem Stand der Technik, um Daten zu schützen, die innerhalb des Prototyps verwendet werden, obwohl keine personenbezogenen Daten betroffen sind.
-**
- 6. Ihre Rechte (falls zutreffend):**
+
+**6. Ihre Rechte (falls zutreffend):**
 - Da keine personenbezogenen Daten erfasst werden, sind typische Datenschutzrechte wie Zugriff, Berichtigung, Einschränkung der Verarbeitung, Löschung und Datenübertragbarkeit nicht anwendbar.
 
 **7. Änderungen an der Datenschutzerklärung:**
